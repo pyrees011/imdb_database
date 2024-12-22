@@ -1,0 +1,11 @@
+imdb_venv/
+
+.env
+
+name.basics.tsv
+title.basics.tsv
+title.principals.tsv
+title.ratings.tsv
+title.crew.tsv
+title.episode.tsv
+title.akas.tsv
